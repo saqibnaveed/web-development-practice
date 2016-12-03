@@ -8,5 +8,5 @@ Built using:
  - CSS
  - JavaScript
 
-Note: using it with might give an error in console that "Cross origin requests are only supported"
+Note: using it with chrome might give an error (in dev console) that "Cross origin requests are only supported..."
   - Simple solution: Serve HTML files through a web server on the localhost. e.g. http-server (a node.js based simple http server). You can find more about it here: https://www.npmjs.com/package/http-server
