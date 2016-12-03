@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nissan GT-R",
+    "year": 2016,
+    "hp": 545,
+    "zerotosixty": 2.7,
+    "topspeed": 191,
+    "price": "$111,685",
+    "pic_link": "http://blog.caranddriver.com/wp-content/uploads/2016/06/2017-Nissan-GT-R-102-876x535.jpg"
+  },
+  {
+    "name": "Audi R8 V10 Plus",
+    "year": 2016,
+    "hp": 610,
+    "zerotosixty": 2.7,
+    "topspeed": 205,
+    "price": "$164,150",
+    "pic_link": "http://blog.caranddriver.com/wp-content/uploads/2015/12/2016-Audi-R8-V-10-Plus-101-876x535.jpg"
+  },
+  {
+    "name": "Lamborghini Aventador",
+    "year": 2016,
+    "hp": 740,
+    "zerotosixty": 2.7,
+    "topspeed": 217,
+    "price": "$402,995",
+    "pic_link": "http://blog.caranddriver.com/wp-content/uploads/2016/04/2016-Lamborghini-Aventador-LP750-4-SV-201-876x535.jpg"
+  },
+  {
+    "name": "BMW 5-series",
+    "year": 2017,
+    "hp": 335,
+    "zerotosixty": 4.8,
+    "topspeed": 155,
+    "price": "$60,000",
+    "pic_link": "http://blog.caranddriver.com/wp-content/uploads/2016/04/2016-Lamborghini-Aventador-LP750-4-SV-201-876x535.jpg"
+  }
+]
